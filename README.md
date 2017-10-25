@@ -1,7 +1,10 @@
 # training
 
-## mount disk
+## 1) download all zip file and extract
+
+
+## 2) mount disk
 ![mountdisk](/screenshots/attach.png)
 
-## insert password fro BitLocker
+## 3) insert password fro BitLocker
 ![passwordBitLocker](/screenshots/passwordBitLocker.png)
