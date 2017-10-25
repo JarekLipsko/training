@@ -1,6 +1,6 @@
 # training
 
-## 1) download all zip file and extract
+## 1) download all zip files from 'data' folder and extract
 
 
 ## 2) mount disk
